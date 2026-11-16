@@ -1,0 +1,11 @@
+{
+  "name": "bayt",
+  "version": "0.1.0",
+  "description": "Your app as a house: Bayt explains what Claude Code builds, in plain words, in English and Arabic.",
+  "author": {
+    "name": "M-Alkassem",
+    "url": "https://github.com/M-Alkassem"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

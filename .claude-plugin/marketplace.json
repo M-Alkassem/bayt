@@ -1,0 +1,17 @@
+{
+  "name": "bayt",
+  "owner": {
+    "name": "M-Alkassem",
+    "url": "https://github.com/M-Alkassem"
+  },
+  "metadata": {
+    "description": "Bayt: a Claude Code mod that explains what Claude builds, in plain words, and draws your app as a house."
+  },
+  "plugins": [
+    {
+      "name": "bayt",
+      "source": "./",
+      "description": "Your app as a house: Bayt explains what Claude Code builds, in plain words, in English and Arabic."
+    }
+  ]
+}
